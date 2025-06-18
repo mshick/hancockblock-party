@@ -11,24 +11,23 @@ The next block party will be on July 12th starting at noon. Please join us for s
 
 ## Contributions
 
-### So far we have $180 toward our goal of $1500
+### So far we have $300 toward our goal of $1500
 
 Thanks to:
 
-- Vivian
+- Vivian & Michael
 - Melissa
 - Ryan
 - Michael
+- Megan & Gary
+- Verna
 
 ## Calendar
 
 ### Planning
 
-* June 12th - 7:30pm @ [Zoom](https://us06web.zoom.us/j/87859146525?pwd=YXUzeHVBRTk4SlBEcVpZZDR6QkF5dz09) (#100974)
-* June 16th - 7:30pm @ [Zoom](https://us06web.zoom.us/j/87859146525?pwd=YXUzeHVBRTk4SlBEcVpZZDR6QkF5dz09) (#100974)
-* June 23rd - 7:30pm @ [Zoom](https://us06web.zoom.us/j/87859146525?pwd=YXUzeHVBRTk4SlBEcVpZZDR6QkF5dz09) (#100974)
-* June 30th - 7:30pm @ Jeff's (593)
-* July 7th  - 7:30pm @ Jeff's (593)
+* June 20rd - 8:00pm @ Jeff's (593)
+* July 7th  - 8:00pm @ Jeff's (593)
 
 ### July 12th - Party Day
 
