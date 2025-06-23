@@ -22,7 +22,7 @@ Thanks to:
 - Verna (602)
 - Ellen (614)
 - Masha (592)
-- Jeff (596)
+- Joe (596)
 - Bruce & Barbara (595)
 - Jeff (593)
 - Shawn (603)
