@@ -31,6 +31,8 @@ Thanks to:
 - Al (612)
 - Ariella (599)
 - Jesse (600)
+- Jose (599)
+- Hermie (582)
 
 ## Calendar
 
