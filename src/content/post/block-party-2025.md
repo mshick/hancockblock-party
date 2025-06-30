@@ -11,7 +11,7 @@ The next block party will be on July 12th starting at noon. Please join us for s
 
 ## Contributions
 
-### So far we have $1320 toward our goal of $1500
+### So far we have $1460 toward our goal of $1500
 
 Thanks to:
 
@@ -34,6 +34,10 @@ Thanks to:
 - Jose (599)
 - Hermie (582)
 - Mark (607)
+- Alexa (609)
+- Jackie (599)
+- Mrs Watts (599)
+
 
 ## Calendar
 
