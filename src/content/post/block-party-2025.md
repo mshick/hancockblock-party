@@ -19,6 +19,7 @@ Join us today for the block party!
 
 * 8am  - Street closed to traffic
 * 12pm - Party starts
+* 5pm - Raffle drawing!
 * 7pm  - Cleanup starts
 * 8pm  - Street is reopened to traffic
 
