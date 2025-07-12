@@ -7,6 +7,14 @@ tags: ["block party"]
 
 Join us today for the block party!
 
+## Features
+
+* Water slide!
+* 50/50 Raffle!
+* Food!
+* Friends!
+* DJ!
+
 ## Schedule
 
 * 8am  - Street closed to traffic
