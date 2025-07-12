@@ -1,13 +1,13 @@
 ---
 import { getEntry } from "astro:content";
-import Note from "@/components/note/Note.astro";
-import PageLayout from "@/layouts/Base.astro";
 import { render } from "astro:content";
+// import Note from "@/components/note/Note.astro";
+import PageLayout from "@/layouts/Base.astro";
 
 const homepageData = await getEntry("post", "block-party-2025");
 const { Content } = await render(homepageData!);
 
-const contributeData = await getEntry("post", "contribute");
+// const contributeData = await getEntry("post", "contribute");
 ---
 
 <PageLayout meta={{ title: "Home" }}>
@@ -17,7 +17,7 @@ const contributeData = await getEntry("post", "contribute");
 			<Content />
 		</div>
 	</section>
-	<section class="mt-16">
+	<!-- <section class="mt-16">
 		<Note note={contributeData!} as="h3" />
-	</section>
+	</section> -->
 </PageLayout>

@@ -1,19 +1,40 @@
 ---
 title: "Next Block Party on July 12th"
-publishDate: "10 June 2025"
+publishDate: "12 July 2025"
 description: "The next block party"
 tags: ["block party"]
 ---
 
-The next block party will be on July 12th starting at noon. Please join us for some fun!
+Join us today for the block party!
 
-[Download the flyer](/planning-flyer-2025.pdf)
+## Schedule
+
+* 8am  - Street closed to traffic
+* 12pm - Party starts
+* 7pm  - Cleanup starts
+* 8pm  - Street is reopened to traffic
+
+We're located on Hancock St, between Stuyvesant Ave and Malcolm X Blvd.
+
+Here's a [Google Maps link](https://www.google.com/maps/place/600+Hancock+St,+Brooklyn,+NY+11233/@40.680123,-73.935456,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2f5d8e7f9a0b7:0x2c8d6c8e9f8b2f3!8m2!3d40.680123!4d-73.9332673!16s%2Fg%2F11c1lqv_5) to the block.
+
+![](./map.png)
+
+[Download the flyer](/2025-flyer.pdf)
+
+## Donations
+
+If you had fun and would like to donate for next year's block party:
+
+[Donate with Venmo](https://account.venmo.com/u/mshick)
+
+[Donate with Zelle](https://enroll.zellepay.com/qr-codes?data=eyJhY3Rpb24iOiJwYXltZW50IiwidG9rZW4iOiJtQHNoaWNrLnVzIiwibmFtZSI6Ik1pY2hhZWwgU2hpY2sifQ==)
 
 ## Contributions
 
-### So far we have $1630 toward our goal of $1500
+### We've gotten over $1800 in contributions from people on the block.
 
-Thanks to:
+### Thanks to:
 
 - Vivian & Michael (585)
 - Melissa
@@ -42,31 +63,6 @@ Thanks to:
 - Ms Evans (640)
 - T. Mack
 - Diego (634)
-
-
-## Calendar
-
-### Planning
-
-* June 20rd - 8:00pm @ Jeff's (593)
-* July 7th  - 8:00pm @ Jeff's (593)
-
-### July 12th - Party Day
-
-* 8am  - Street closed to traffic
-* 12pm - Party starts
-* 7pm  - Cleanup starts
-* 8pm  - Street is reopened to traffic
-
-### Zoom Info
-
-Zoom ID **878 5914 6525**<br>
-Passcode # **100974**<br>
-Telephone<br>
-**646-558-8656**<br>
-**878 5914 6525 # #again**<br>
-**100974#**
-
-[Join Zoom Meeting](https://us06web.zoom.us/j/87859146525?pwd=YXUzeHVBRTk4SlBEcVpZZDR6QkF5dz09)
-
-
+- Jordan
+- Terrie
+- Seth
